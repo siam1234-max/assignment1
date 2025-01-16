@@ -3,54 +3,52 @@ nav {
     background-size: contain;
     display: flex;
     justify-content: space-between;
-    
-
-    
 }
-/* nav>button{ */
+ nav>butto/n{ 
     /* background-color: seagreen; */
-    left: 10px;
-    padding: 40px;
+    /* left: 10px; */
+    /* padding: 40px; */
     justify-content: space-between;
     
 }
 div{
-    i
 
-}
+
+
+/* } */
 /* .bd-pic{ */
-    display: margin: 100px
-    ;
-}
+    /* display: margin: 100px */
+    /* ; */
+/* } */
 .icon-1{
     background-color: aliceblue;
 }
 /* .icon-2{ */
-    display: inline;
-    display: inline;
+    /* display: inline; */
+    /* display: inline; */
     /* display: flex; */
     /* display: table-column; */
-    /* align-items: center; */position: ;
-    display: -moz-inline-box;
-    background-color: chartreuse;background: fixed;
-}
+    /* align-items: center;position: ; */
+    /* display: -moz-inline-box; */
+    /* background-color: chartreuse;background: fixed; */
+/* } */
 /* .news{ */
     /* background:white;
      */
-     background-color: darkseagreen;
-     display: flex;
-}
+     /* background-color: darkseagreen; */
+     /* display: flex; */
+/* } */
 .banner{
     justify-content: space-between ;
 }
 /* .skill{  */
-    display: inline;
-    display: flex;
-    justify-content: space-around;
-    padding: 200px 0 0 110;
-    height: 10opx;width: 300px;
+    /* display: inline; */
+    /* display: flex; */
+    /* justify-content: space-around; */
+    /* padding: 200px 0 0 110; */
+    /* height: 10opx;width: 300px; */
 
-}
+/* } */
 .skilli{
     display: flex;
     justify-content: space-around;
@@ -65,7 +63,7 @@ div{
     display: flex;
     
     display: flex; 
-    /* justify-content: space-around;  */
+    justify-content: space-around; 
     border-radius: 1000p
 
 }
@@ -74,8 +72,8 @@ div{
     border-radius: 10px;
     border: 10px;
 }
-    
-}.icon3{
+}
+.icon3{
     border-radius: 500px;
 }
 .news-al{
@@ -89,7 +87,7 @@ div{
 .taka{
     background-color: rgb(197, 221, 228);
     border-radius: 10px;
-ul>border: margin: height: 10px;;
+/* ul>border: margin: height: 10px;; */
     
 }
-}
+/* } */
