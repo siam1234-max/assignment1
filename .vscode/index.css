@@ -1,0 +1,93 @@
+nav { 
+    /* background-color: aqua; */
+    background-size: contain;
+    display: flex;
+    justify-content: space-between;
+}
+ nav>butto/n{ 
+    /* background-color: seagreen; */
+    /* left: 10px; */
+    /* padding: 40px; */
+    justify-content: space-between;
+    
+}
+div{
+
+
+
+/* } */
+/* .bd-pic{ */
+    /* display: margin: 100px */
+    /* ; */
+/* } */
+.icon-1{
+    background-color: aliceblue;
+}
+/* .icon-2{ */
+    /* display: inline; */
+    /* display: inline; */
+    /* display: flex; */
+    /* display: table-column; */
+    /* align-items: center;position: ; */
+    /* display: -moz-inline-box; */
+    /* background-color: chartreuse;background: fixed; */
+/* } */
+/* .news{ */
+    /* background:white;
+     */
+     /* background-color: darkseagreen; */
+     /* display: flex; */
+/* } */
+.banner{
+    justify-content: space-between ;
+}
+/* .skill{  */
+    /* display: inline; */
+    /* display: flex; */
+    /* justify-content: space-around; */
+    /* padding: 200px 0 0 110; */
+    /* height: 10opx;width: 300px; */
+
+/* } */
+.skilli{
+    display: flex;
+    justify-content: space-around;
+}
+.icon1{
+    border-radius: 900px;
+    
+    
+}
+.skill{
+    display: inline;
+    display: flex;
+    
+    display: flex; 
+    justify-content: space-around; 
+    border-radius: 1000p
+
+}
+.pic-icon{
+    justify-content: space-between;
+    border-radius: 10px;
+    border: 10px;
+}
+}
+.icon3{
+    border-radius: 500px;
+}
+.news-al{
+    text-align: left;
+    /* text-align: right; */
+}
+.alnews{
+    display: inline;
+    display: flex;
+}
+.taka{
+    background-color: rgb(197, 221, 228);
+    border-radius: 10px;
+/* ul>border: margin: height: 10px;; */
+    
+}
+/* } */
